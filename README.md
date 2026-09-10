@@ -2,8 +2,6 @@
 
 An SMS-based appointment booking prototype built with Node.js, Express, and Twilio. Users can reply to a Twilio SMS webhook to choose a service, weekday, and appointment time.
 
-![Twilio SMS](images/twilio-sms.png)
-
 ## Features
 
 - Handles incoming Twilio SMS messages through a webhook.
